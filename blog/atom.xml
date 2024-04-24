@@ -2,11 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://stronovski.github.io/241saurus/blog/</id>
     <title>241saurus Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2024-04-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://stronovski.github.io/241saurus/blog/"/>
     <subtitle>241saurus Blog</subtitle>
     <icon>https://stronovski.github.io/241saurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pop Quiz]]></title>
+        <id>https://stronovski.github.io/241saurus/blog/POP-QUIZ/</id>
+        <link href="https://stronovski.github.io/241saurus/blog/POP-QUIZ/"/>
+        <updated>2024-04-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is our POP QUIZ posting!]]></summary>
+        <content type="html"><![CDATA[<p>This is our POP QUIZ posting!</p>
+<p>-- Ghina, Rana, Sita, Nabiilah, Sabina, Andi, and Azmi</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>]]></content>
+        <author>
+            <name>Ghina Nabila Gunawan</name>
+            <uri>https://github.com/ghina2703</uri>
+        </author>
+        <author>
+            <name>Rana Koesumastuti</name>
+            <uri>https://github.com/facesofgoblin</uri>
+        </author>
+        <author>
+            <name>Sita Amira</name>
+            <uri>https://github.com/sitaamirasyarifah</uri>
+        </author>
+        <author>
+            <name>Nabiilah Putri Safa</name>
+            <uri>https://github.com/nabiilahputri13</uri>
+        </author>
+        <author>
+            <name>Sabina Maritza</name>
+            <uri>https://github.com/sabinamaritza</uri>
+        </author>
+        <author>
+            <name>Andi Salsabila</name>
+            <uri>https://github.com/stronovski</uri>
+        </author>
+        <author>
+            <name>Ulul 'Azmi Abdullah Iman</name>
+            <uri>https://github.com/azmiman52</uri>
+        </author>
+        <category label="POPQUIZ" term="POPQUIZ"/>
+        <category label="WEEK07" term="WEEK07"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://stronovski.github.io/241saurus/blog/welcome/</id>
